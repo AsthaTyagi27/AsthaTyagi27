@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AsthaTyagi27
 - 👀 I’m interested in web dev.
 - 🌱 I’m currently learning C language.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on coding.
 - 📫 How to reach me git hub.
 - 😄 Pronouns: her
 - ⚡ Fun fact: ...
